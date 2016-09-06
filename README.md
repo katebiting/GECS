@@ -1,6 +1,7 @@
 # GECS
-Grammar Errors Correction Sistem \n
-progetto per Sistemi Intelligenti per Internet \n
+Grammar Errors Correction Sistem 
+progetto per Sistemi Intelligenti per Internet 
 
----Librerie necessarie per il progetto--- \n
+---Librerie necessarie per il progetto--- 
+
 *Per l'esecuzione del progetto avviare la classe Run*
